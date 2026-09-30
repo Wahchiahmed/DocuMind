@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+rag_env/
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Streamlit
+.streamlit/secrets.toml
